@@ -1,8 +1,13 @@
 import socket
 
+
+url = input('Enter: ')
+words = url.split('/')
+host = words[2]
+
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-mysock.connect(('where.com', 80))
-cmd = 'GET http://url/target.txt HTTP/1.0\r\n\r\n'.encode()
+mysock.connect((host, 80))
+cmd = 'GET'+url+ 'HTTP/1.0\r\n\r\n'.encode()
 mysock.send(cmd)
 
 
