@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CATALOG>
+	<GameCollection>
+		<Platform>PS4</Platform>
+		<Title>NieR Automata</Title>	
+		<Developer>PlatinumGames</Developer>
+		<Publisher>Square Enix</Publisher>
+		<Director>Yoko Taro</Director>
+		<Producer>Eijiro Nishimura,Yosuke Saito</Producer>	
+		<Genre>Action,Role Playing,hack and slash</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2017</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>TrackMania Turbo</Title>	
+		<Developer>Nadeo</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Florent Castelnérac</Director>
+		<Producer>None</Producer>
+		<Genre>Racing</Genre>
+		<ESRB>E</ESRB>
+		<Price>0</Price>
+		<Release>2016</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Monster Hunter:World</Title>	
+		<Developer>Capcom</Developer>
+		<Publisher>Capcom</Publisher>
+		<Director>Yuya Tokuda</Director>
+		<Producer>Hironobu Takeshita,Shingo Izumi,Kazunori Inoue</Producer>	
+		<Genre>Action role-playing</Genre>
+		<ESRB>T</ESRB>
+		<Price>0</Price>
+		<Release>2017</Release>
+	</GameCollection>	
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Watch Dogs 2</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Jonathan Morin,Patrick Plourde,Danny Bélanger</Director>
+		<Producer>Dominic Guay</Producer>	
+		<Genre>Action-adventure</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2020</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Far Cry 4</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Alex Hutchinson,Patrik Méthé</Director>
+		<Producer>Cedric Decelle</Producer>	
+		<Genre>First-person shooter</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2014</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Far Cry New Dawn</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Jean-Sebastien Decant,Patrik Methe</Director>
+		<Producer>Sebastien Ebacher</Producer>	
+		<Genre>Action-adventure,First-person shooter</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2019</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Starlink: Battle for Atlas</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Laurent Malville,Richard Carillo</Director>
+		<Producer>Matthew Rose</Producer>	
+		<Genre>Action-adventure</Genre>
+		<ESRB>E</ESRB>
+		<Price>0</Price>
+		<Release>2019</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Tom Clancy's Splinter Cell: Blacklist</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Maxime Béland,Patrick Redding</Director>
+		<Producer>Alexandre Parizeau,Andrew Wilson</Producer>	
+		<Genre>Action-adventure,stealth</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2013</Release>
+	</GameCollection>		
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Watch Dogs: Legion</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Clint Hocking,Kent Hudson</Director>
+		<Producer>Sean Crooks</Producer>	
+		<Genre>Action-adventure</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2020</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Assassin's Creed Origins</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Jean Guesdon,Ashraf Ismail</Director>
+		<Producer>Martin Schelling</Producer>	
+		<Genre>Action-adventure</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2017</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Assassin's Creed Valhalla</Title>	
+		<Developer>Ubisoft</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Ashraf Ismail,Eric Baptizat</Director>
+		<Producer>Julien Laferrière</Producer>	
+		<Genre>Action role-playing</Genre>
+		<ESRB>17+</ESRB>
+		<Price>0</Price>
+		<Release>2020</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>The Crew</Title>	
+		<Developer>Ubisoft Reflections,Ivory Tower</Developer>
+		<Publisher>Ubisoft</Publisher>
+		<Director>Stephane Beley,Julian Gerighty</Director>
+		<Producer>Ahmed Boukhelifa,Stephane Beley,Richard Blenkinsop,Cristian Pana,Will Musson</Producer>	
+		<Genre>Racing</Genre>
+		<ESRB>None</ESRB>
+		<Price>0</Price>
+		<Release>2014</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Uncharted 4: A Thief's End</Title>	
+		<Developer>Naughty Dog</Developer>
+		<Publisher>Sony Computer Entertainment</Publisher>
+		<Director>Bruce Straley,Neil Druckmann</Director>
+		<Producer>None</Producer>	
+		<Genre>Action-adventure,third-person shooter,platformer</Genre>
+		<ESRB>T</ESRB>
+		<Price>0</Price>
+		<Release>2016</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>Xbox 360</Platform>	
+		<Title>Otomedius Excellent</Title>	
+		<Developer>Konami</Developer>
+		<Publisher>Konami</Publisher>
+		<Director>None</Director>
+		<Producer>Koji Igarashi</Producer>	
+		<Genre>Scrolling shooter</Genre>
+		<ESRB>T</ESRB>
+		<Price>0</Price>
+		<Release>2011</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>Xbox 360</Platform>	
+		<Title>Street Fighter IV</Title>	
+		<Developer>Dimps,Capcom</Developer>
+		<Publisher>Capcom</Publisher>
+		<Director>Takashi Tsukamoto</Director>
+		<Producer>Yoshinori Ono</Producer>	
+		<Genre>Fighting</Genre>
+		<ESRB>T</ESRB>
+		<Price>0</Price>
+		<Release>2010</Release>
+	</GameCollection>
+	<GameCollection>
+		<Platform>PS4</Platform>	
+		<Title>Death Stranding</Title>	
+		<Developer>Kojima Productions</Developer>
+		<Publisher>Sony Interactive Entertainment</Publisher>
+		<Director>Hideo Kojima</Director>
+		<Producer>Hideo Kojima,Kenichiro Imaizumi,James Vance,Ken Mendoza</Producer>	
+		<Genre>Action</Genre>
+		<ESRB>T</ESRB>
+		<Price>0</Price>
+		<Release>2020</Release>
+	</GameCollection>	
+</CATALOG>
