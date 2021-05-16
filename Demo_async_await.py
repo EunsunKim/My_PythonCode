@@ -10,7 +10,7 @@ async def sleepTest():
 async def sumTest(key, values):
 	total = 0
 	for value in values:
-		# print(f'Job {key} : {total}+{value}')
+		# print(f'Job {key} : {total}+{value}') #for debug
 		await sleepTest()
 		total += value
 	print('----------')
@@ -20,7 +20,7 @@ async def sumTest(key, values):
 startTime = time.time()
 
 loop = asyncio.get_event_loop()
-jobs = [loop.create_task(sumTest("A", [12, 20])), loop.create_task(sumTest("B", [5, 3, 60]))]
+jobs = [loop.create_task(sumTest("A", [12, 20])), loop.create_task(sumTest("B", [5, 3, 60]))] # previous version(before3.7) - asyncio.ensure_future()
 loop.run_until_complete(asyncio.wait(jobs))
 loop.close()
 
