@@ -1,3 +1,6 @@
+"""
+code detail is here https://eunsunkim.blogspot.com/2021/05/python-async-and-await-simple-practice.html
+"""	
 import asyncio
 import time
 
@@ -26,3 +29,4 @@ loop.close()
 
 endTime = time.time()
 print(f'Total Compute Time : {endTime - startTime:.2f} sec')
+
