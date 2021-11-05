@@ -28,5 +28,4 @@ class DictionaryMaker(dict):
 
 ### Detail info is here
 
-
-[https://eunsunkim.blogspot.com/]
+Link: <https://eunsunkim.blogspot.com/>
