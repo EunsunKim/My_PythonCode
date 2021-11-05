@@ -1,4 +1,22 @@
-# Detail info is here
+# Welcome to GitHub Pages
 
 
-https://eunsunkim.blogspot.com/
+- Demo_ExternelFileGenerator
+  - Treat CSV,XML,Text, or other externel files with python
+  
+- Network
+  - Socket, plugin, and so on
+
+- Tools
+
+`Code`
+import 
+
+
+
+
+
+### Detail info is here
+
+
+[https://eunsunkim.blogspot.com/]
