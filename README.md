@@ -10,7 +10,17 @@
 - Tools
 
 `Code`
-import 
+Example 
+
+```python
+import os
+
+# Custom class for dictionary making
+class DictionaryMaker(dict):
+	def add(self, key, value):
+		self[key] = value
+    
+```
 
 
 
