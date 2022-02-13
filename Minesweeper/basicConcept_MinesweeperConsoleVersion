@@ -1,5 +1,5 @@
 # This is basic minesweeper concept for console
-# contains mine position function
+# contains function that mine set up on the grid 
 
 import random
 
