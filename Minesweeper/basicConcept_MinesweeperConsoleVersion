@@ -1,0 +1,37 @@
+# This is basic minesweeper concept for console
+# contains mine position function
+
+import random
+
+def reset(board_size, mine_count, positions):
+	positions = [[0 for row in range(board_size)] for colomn in range(board_size)]
+	minesweeper(board_size, mine_count, positions)
+
+
+def minesweeper(board_size, mine_count, positions):
+	minePosition = []
+	print('Board size is %s Mine count is %s' %((len(positions), mine_count)))
+
+	for randomNumber in range(mine_count):
+		x, y = random.randint(0, board_size - 1), random.randint(0, board_size - 1)
+		positions[x][y] = 'X'
+		# if (x, y) not in positions:
+		if positions[x][y] != 'X':
+			positions.append((x, y))
+		if positions[x][y] == 'X':
+			minePosition.append((x, y))
+		else:
+			pass
+
+	for row in positions:
+		print("\t".join(str(cell) for cell in row))
+		print("")
+
+	print('MinePosition is ', minePosition)
+
+
+if __name__ == "__main__":
+	board_size = 10
+	mine_count = 6
+	positions =[]
+	reset(board_size, mine_count, positions)
